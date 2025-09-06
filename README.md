@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ajay Sengar</h1>
-<h3 align="center">Full-Stack Software Engineer specializing in cloud technologies, microservices architecture, and scalable web applications</h3>
+<h3 align="center">
+Full-Stack Software Engineer | Cloud • Microservices • Scalable Applications • AI/ML
+</h3>
+
+---
+
+### 🚀 About Me
+- 🎓 Master of Engineering in **Software Engineering**, University of Maryland (2023–2025)  
+- 💼 **3+ years** of industry experience (A.P. Moller – Maersk, LGS Tech, UMD)  
+- ☁️ Specialized in **cloud-native microservices**, **serverless data pipelines**, and **scalable full-stack apps**  
+- 🧠 Passionate about **LLMs, RAG, and AI integrations** into real-world systems  
+- ⚡ Open to collaborations on **AI-driven SaaS, cloud-native systems, and developer tooling**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
